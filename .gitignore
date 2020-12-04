@@ -1,3 +1,11 @@
+!*.gitignore
+*.png
+*.jpg
+images/
+ios/
+android/
+build/
+
 # Miscellaneous
 *.class
 *.log
